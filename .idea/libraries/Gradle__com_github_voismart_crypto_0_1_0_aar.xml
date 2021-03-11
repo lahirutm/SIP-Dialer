@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.voismart:crypto:0.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de340505a31eeb673075fb74f0585f20/crypto-0.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de340505a31eeb673075fb74f0585f20/crypto-0.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de340505a31eeb673075fb74f0585f20/crypto-0.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.voismart/crypto/0.1.0/c2bc83ce99b334cf85a23a0b7f1f4ce92ea1f1bb/crypto-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
